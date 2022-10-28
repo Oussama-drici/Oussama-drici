@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oussama-drici
 - 👀 I’m interested in Software Developpement,Network & System automation & DevOps tools
 - 🌱 I’m currently learning DevOps tools
-- 💞️ I’m looking to collaborate on "work"
+- 💞️ I’m looking to collaborate on Any interested IT projects
 - 📫 How to reach me "oussamadrici844@gmail.com"
 
 <!---
